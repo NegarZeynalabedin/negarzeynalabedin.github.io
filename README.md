@@ -1,4 +1,4 @@
-# zahrabashir98.github.io
+# negarzeinalabedin.github.io
 My resume webpage ...
 
-URL: https://zahrabashir98.github.io/
+URL: https://negarzeinalabedin.github.io/
